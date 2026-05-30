@@ -1,0 +1,102 @@
+[
+  {
+    "patient_id": "P001",
+    "name": "Amit Kumar",
+    "age": 34,
+    "gender": "Male",
+    "blood_group": "A+",
+    "disease": "Diabetes",
+    "phone": "9876543210",
+    "address": "Ranchi, Jharkhand"
+  },
+  {
+    "patient_id": "P002",
+    "name": "Sneha Sharma",
+    "age": 28,
+    "gender": "Female",
+    "blood_group": "B+",
+    "disease": "Asthma",
+    "phone": "9123456780",
+    "address": "Dhanbad, Jharkhand"
+  },
+  {
+    "patient_id": "P003",
+    "name": "Rahul Verma",
+    "age": 45,
+    "gender": "Male",
+    "blood_group": "O+",
+    "disease": "Hypertension",
+    "phone": "9988776655",
+    "address": "Patna, Bihar"
+  },
+  {
+    "patient_id": "P004",
+    "name": "Priya Singh",
+    "age": 31,
+    "gender": "Female",
+    "blood_group": "AB+",
+    "disease": "Thyroid",
+    "phone": "8877665544",
+    "address": "Kolkata, West Bengal"
+  },
+  {
+    "patient_id": "P005",
+    "name": "Vikram Das",
+    "age": 52,
+    "gender": "Male",
+    "blood_group": "A-",
+    "disease": "Heart Disease",
+    "phone": "7766554433",
+    "address": "Bhubaneswar, Odisha"
+  },
+  {
+    "patient_id": "P006",
+    "name": "Anjali Mehta",
+    "age": 26,
+    "gender": "Female",
+    "blood_group": "O-",
+    "disease": "Anemia",
+    "phone": "6655443322",
+    "address": "Rourkela, Odisha"
+  },
+  {
+    "patient_id": "P007",
+    "name": "Suresh Yadav",
+    "age": 40,
+    "gender": "Male",
+    "blood_group": "B-",
+    "disease": "Arthritis",
+    "phone": "5544332211",
+    "address": "Lucknow, Uttar Pradesh"
+  },
+  {
+    "patient_id": "P008",
+    "name": "Neha Gupta",
+    "age": 22,
+    "gender": "Female",
+    "blood_group": "A+",
+    "disease": "Migraine",
+    "phone": "9988123456",
+    "address": "Delhi, India"
+  },
+  {
+    "patient_id": "P009",
+    "name": "Ravi Singh",
+    "age": 38,
+    "gender": "Male",
+    "blood_group": "O+",
+    "disease": "Kidney Stone",
+    "phone": "9090909090",
+    "address": "Gaya, Bihar"
+  },
+  {
+    "patient_id": "P010",
+    "name": "Pooja Patel",
+    "age": 30,
+    "gender": "Female",
+    "blood_group": "AB-",
+    "disease": "Allergy",
+    "phone": "8080808080",
+    "address": "Surat, Gujarat"
+  }
+]
