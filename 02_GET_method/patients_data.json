@@ -1,0 +1,44 @@
+{
+    "patients": [
+        {
+            "id": 1,
+            "name": "Rahul Sharma",
+            "age": 28,
+            "gender": "Male",
+            "disease": "Fever",
+            "percentage_recovery": 85
+        },
+        {
+            "id": 2,
+            "name": "Priya Das",
+            "age": 34,
+            "gender": "Female",
+            "disease": "Diabetes",
+            "percentage_recovery": 70
+        },
+        {
+            "id": 3,
+            "name": "Amit Kumar",
+            "age": 45,
+            "gender": "Male",
+            "disease": "Asthma",
+            "percentage_recovery": 60
+        },
+        {
+            "id": 4,
+            "name": "Sneha Roy",
+            "age": 22,
+            "gender": "Female",
+            "disease": "Cold",
+            "percentage_recovery": 95
+        },
+        {
+            "id": 5,
+            "name": "Vikash Singh",
+            "age": 50,
+            "gender": "Male",
+            "disease": "Hypertension",
+            "percentage_recovery": 75
+        }
+    ]
+}
